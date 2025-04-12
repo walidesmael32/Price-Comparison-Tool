@@ -1,4 +1,4 @@
-from scraper import scrape_prices
+from scrapers import scrape_prices
 from utils import match_products, sort_by_price, display_results
 
 def main():
